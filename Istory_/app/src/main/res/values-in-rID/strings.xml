@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Go Story</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_login">Masuk</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Sandi</string>
+    <string name="text_masuk">Masuk</string>
+    <string name="text_no_account">Belum punya akun?</string>
+    <string name="text_register">Daftar</string>
+    <string name="text_nama">Nama</string>
+    <string name="text_daftar">Daftar</string>
+    <string name="text_has_account">Sudah punya akun?</string>
+    <string name="text_error_passwd">Password harus lebih dari 6 karakter</string>
+    <string name="text_error_register">Registrasi Gagal, Coba lagi</string>
+    <string name="text_error_login">Password atau email salah</string>
+    <string name="story_name">Nama</string>
+    <string name="story_description">Deskripsi</string>
+    <string name="home">Beranda</string>
+    <string name="setting">Pengaturan</string>
+    <string name="text_tulis_keterangan">Tulis keterangan…</string>
+    <string name="text_pilih_gambar">Pilih gambar</string>
+    <string name="upload">Unggah</string>
+    <string name="text_buka_kamera">Buka kamera</string>
+    <string name="text_pilih_dari_galeri">Pilih dari galeri</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="logout">Keluar</string>
+</resources>

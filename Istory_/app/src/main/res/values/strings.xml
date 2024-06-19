@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">I Story</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_login">Login</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_masuk">Masuk</string>
+    <string name="text_no_account">Belum punya akun?</string>
+    <string name="text_register">Daftar</string>
+    <string name="text_nama">Nama</string>
+    <string name="text_daftar">Daftar</string>
+    <string name="text_has_account">Sudah punya akun?</string>
+    <string name="text_error_passwd">Password harus lebih dari 6 karakter</string>
+    <string name="text_error_register">Registrasi Gagal, Coba lagi</string>
+    <string name="text_error_login">Password atau email salah</string>
+    <string name="story_name">Name</string>
+    <string name="story_description">Description here</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="text_tulis_keterangan">Tulis keterangan...</string>
+    <string name="text_pilih_gambar">Pilih gambar</string>
+    <string name="upload">Upload</string>
+    <string name="text_buka_kamera">Buka kamera</string>
+    <string name="text_pilih_dari_galeri">Pilih dari galeri</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="logout">Logout</string>
+    <string name="label_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque lobortis nunc nec sodales consectetur. Sed eget auctor quam. Nulla facilisi. Etiam vitae nulla sed arcu varius tempus. Nullam ac diam ante. Donec condimentum cursus accumsan. Ut sit amet felis rutrum, posuere lorem sed</string>
+    <string name="appwidget_text">I-Story Today</string>
+    <string name="empty_text">empty</string>
+    <string name="app_widget_description">I Story News</string>
+</resources>
